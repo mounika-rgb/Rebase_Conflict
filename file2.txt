@@ -1,3 +1,10 @@
 fish
+<<<<<<< HEAD
 apple
 mango
+=======
+hens
+fish
+hens
+sparrow
+>>>>>>> 9ebba15 (commited)
